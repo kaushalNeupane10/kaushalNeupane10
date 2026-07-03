@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Kaushal%20Neupane&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Junior%20Front-End%20Developer&descAlignY=55&descAlign=62" width="100%"/>
 <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=1273DE&center=true&vCenter=true&width=600&lines=Junior+Frontend+Developer+%40+Sampreshan;" />
 # 💫 About Me:
-BCA 7th semester student currently working at Sampreshan, focused on developing strong technical and practical skills in the IT field.
+BCA 8th semester student currently working at Sampreshan, focused on developing strong technical and practical skills in the IT field.
 
 
 ## 🌐 Socials:
